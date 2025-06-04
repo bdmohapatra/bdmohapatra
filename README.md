@@ -66,12 +66,10 @@
 
 ---
 
-### 🎓 Certifications
+## 🏅 Certifications
 
-- ✅ **Microsoft Certified: Azure Administrator Associate**
-- ✅ **Microsoft Certified: Azure DevOps Expert**
-- ✅ **Terraform Associate (HashiCorp)** *(in progress)*
-- ✅ **Certified Kubernetes Administrator (CKA)** *(in progress)*
+![Azure Administrator](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator-blue?style=for-the-badge&logo=microsoft)
+![Azure DevOps Expert](https://img.shields.io/badge/Microsoft%20Certified-Azure%20DevOps%20Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
@@ -106,4 +104,5 @@
 > ⚡ “Automate all the boring stuff — twice if necessary!”
 
 ---
+
 
