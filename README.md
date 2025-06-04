@@ -22,8 +22,6 @@
 
 ### 🧰 My DevOps Toolbox
 
-### 🧰 My DevOps Toolbox
-
 <p align="center">
   <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
