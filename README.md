@@ -22,17 +22,83 @@
 
 ### 🧰 My DevOps Toolbox
 
+### 🧰 My DevOps Toolbox
+
 <p align="center">
+  <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- Kubernetes & Containers -->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=azure-kubernetes-service&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+  <!-- IaC & Automation -->
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM%20Templates-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-4A154B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Configuration%20Management-F7DF1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secrets%20Management-007ACC?style=for-the-badge"/>
+
+  <!-- OS & Shell -->
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Scripting-89E051?style=for-the-badge"/>
+
+  <!-- CI/CD & SCM -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-orange?style=for-the-badge"/>
+
+  <!-- Monitoring & Logging -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monitoring-5C5CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logging-005571?style=for-the-badge"/>
+
+  <!-- Languages & Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+  <!-- Soft Skills & Practices -->
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Collaboration-4A154B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-ff9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptability-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-4caf50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Community%20Engagement-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learning-3f51b5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps%20Practices-F44336?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Incident%20Management-b71c1c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Disaster%20Recovery-607d8b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load%20Balancing-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/High%20Availability-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance%20Tuning-9c27b0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security%20Best%20Practices-ff5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
 </p>
+
 
 ---
 
