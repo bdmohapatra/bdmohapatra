@@ -58,8 +58,6 @@
 - 🔁 **Automated End-to-End Deployments** for Java, .NET, and Python applications using Jenkins on Windows and Ubuntu servers
 - ☁️ **Provisioned Cloud Infrastructure at Scale** using Terraform for Azure, including VNets, AKS, ACR, VMs, and RBAC
 - 📦 **Built 30+ Reusable Terraform Modules** for internal and client projects to standardize infrastructure deployment
-- 🧠 **Microsoft Certified: Azure Administrator Associate**
-- 🧠 **HashiCorp Certified: Terraform Associate**
 - 📊 **Designed Centralized Monitoring Stack** using Prometheus, Grafana, and Azure Monitor
 - 💡 **Optimized Weekly Backup and Auto-Restart Cron Jobs** for Linux-based Java microservices
 - 🔒 **Implemented Secrets Management** using Azure Key Vault and environment-specific configs
